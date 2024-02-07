@@ -1,0 +1,41 @@
+* {
+box-sizing: border-box;
+margin: none;
+font-size: large; font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+background-color: chocolate;
+margin: none;
+padding: 40px;
+border-radius: 20px;border-style: inset;border-width: 10px;
+font-size: xx-large; font-family:cursive;
+}
+p {
+color: chocolate;
+font-size: 20px;
+font-family: cursive;
+}
+h2 {
+font-size: xx-large;
+font-family: cursive;
+color: chocolate;
+}
+body {
+background-color: chocolate;
+background-image: url(../Downloads/intro\ to\ coding\ 002.jpg);
+border-color: chocolate;
+
+}
+h3{
+    color: chocolate;
+font-family: cursive
+}
+img {
+width:800px;
+height: 300px;
+}
+p {
+color: chocolate;
+font-size: 20px;
+font-family: cursive;
+}
